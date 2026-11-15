@@ -18,10 +18,10 @@ Yunzai 插件的 **README 预览图**放这里，插件仓库本身不再带图�
 
 | 文件 | 内容 |
 | --- | --- |
-| `preview-wish.jpg` | 十连结果卡片 |
+| `preview-wish.jpg` | 十连结果卡片（每行 10 张 + 五星登场） |
 | `preview-banner.jpg` | `#卡池` 当期四个卡池 |
 | `preview-record.jpg` | `#模拟抽卡记录` / 五星记录 / 统计 / 欧皇榜 |
-| `preview-hundred.jpg` | `#抽卡百连` 100 连（10×10） |
+| `preview-hundred.jpg` | `#抽卡百连` 100 连（每个十连单独一张图，共 10 张） |
 | `preview-help.jpg` | `#抽卡帮助` 指令图 |
 
 ---
